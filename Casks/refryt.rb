@@ -1,6 +1,6 @@
 cask "refryt" do
-  version "0.3.2"
-  sha256 "0c3ca841b6089cbdbbd915db0e45cd637d635014cfb0825a139a0748d4be9c13"
+  version "0.3.3"
+  sha256 "3ca457787db4383e3d2fba2a0b46048638cca88a59a186b3bf3563fa874858b1"
 
   url "https://github.com/gridoe/refryt/releases/download/v#{version}/refryt-#{version}-macos-arm64.dmg"
   name "Refryt"
